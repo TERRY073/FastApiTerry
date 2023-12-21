@@ -1,3 +1,5 @@
+#Trabajo realizado en conjunto con Jose David y Juan Camilo valencia
+
 import os
 from typing import Union
 
